@@ -9,7 +9,7 @@ services:
     environment:
       - PORT=2456
       - NAME="Anomie"
-      - WORLD="Dedicated"
+      - WORLD="Anomie"
       - PASSWORD="poopy"
       - TZ=America/Chicago
       - PUBLIC=1
